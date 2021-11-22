@@ -81,7 +81,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Itsmebasil0/catbots
+$ git clone  https://github.com/rishalser/catbots.git
 $ cd catbots
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -91,8 +91,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Itsmebasil0/catbots
-$ cd catbots
+$ git clone 
+$ cd catbots https://github.com/rishalser/catbots.git
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -112,10 +112,10 @@ By establishing the Pikachu, you are deemed to have accepted these responsibilit
 ## Developers
   <div align="center">
     
-  [![itsmebasil0](https://github.com/itsmebasil0.png?size=100)](https://github.com/itsmebasil0) | 
+  [![itsmerishalser](https://github.com/rishalser/catbots.git .png?size=100)](https://github.com/rishalser/catbots.git) | 
 ----|
-[BASILSER](https://github.com/itsmebasil0)
-Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
+[RISHALSER] https://github.com/rishalser/catbots.git
+Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
 
